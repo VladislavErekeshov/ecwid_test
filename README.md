@@ -1,1 +1,1 @@
-pytest --alluredir recourses
+pytest --alluredir resources
